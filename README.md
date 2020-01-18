@@ -1,5 +1,5 @@
 # indianmoney
-  This library is used to format number in Indian money type
+  This golang library is used to format number in Indian money type
 
 ## Quick Start
 
